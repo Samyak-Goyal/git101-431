@@ -28,7 +28,7 @@
 - [ ] Serve the hacker culture itself
 
 ### ReBoot Task List ( Max 14 hours , Min 8 hours)
-- [ ] Install Arch on VM
+- [x] Install Arch on VM
 - [ ] Install Arch on bare metal with BTRFS (Advance)
 - [ ] Develop Backend Serivce (NodeJS/Python) with TDD
 - [ ] Develop Frontend Single Page App with React
